@@ -1,0 +1,75 @@
+{
+    "Team Leader Name: Rayan Zakaria Hassici": [],
+    "Doctor": [
+        {
+            "Name": "Baya",
+            "Id": 0,
+            "Password": "Baya",
+            "Service" : "Cardiology"
+        },
+        {
+            "Name": "KARABADJI Rania",
+            "Id": 56790123,
+            "Password": "RaniaKara",
+            "Service" : "Pneumology"
+        },
+        {
+            "Name": "ARAB Selma",
+            "Id": 56790123,
+            "Password": "Selma",
+            "Service" : "Pneumology"
+        },
+        {
+            "Name": "RAFES Nada",
+            "Id": 56790123,
+            "Password": "Nina",
+            "Service" : "Critical"
+        }
+    ],
+    "Nurse" : [
+        {
+            "Name": ".",
+            "Id": 0,
+            "Password": ".",
+            "Service": "Critical"
+        },
+        {
+            "Name": "HASSICI Rayan Zakaria",
+            "Id": 23074568,
+            "Password": "RayanZak",
+            "Service": "Critical"
+        },
+        {
+            "Name": "ARSLANE Chakib",
+            "Id": 56790123,
+            "Password": "Arslane",
+            "Service" : "Pneumology"
+        },
+        {
+            "Name": "LEKOUARA Sadjida",
+            "Id": 56790123,
+            "Password": "Nesrine",
+            "Service" : "Cardiology"
+        },
+        {
+            "Name": "HASSICI Adem",
+            "Id": 56790123,
+            "Password": "Adem",
+            "Service" : "Pneumology"
+        }
+    ],
+    "Director" : [
+        {
+            "Name": "MANI Selma",
+            "Id": 1231401,
+            "Password": "SelmaMani",
+            "Service" : ""
+        },
+        {
+            "Name": "",
+            "Id": 0,
+            "Password": "",
+            "Service" : ""
+        }
+    ]
+}
